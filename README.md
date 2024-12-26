@@ -37,7 +37,7 @@ using System.Globalization;
         Console.WriteLine(result);
         // Output: "File_2024-12-25_Report_2024-12-26.log"
     }
-}
+}```
 
 ##Supported Keywords
 Keyword	Description	Example Output
@@ -57,7 +57,7 @@ Copy code
     if (keyword == "NOW") return DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss", culture);
     // Add custom keyword handling here
     throw new ArgumentException($"Unknown keyword: {keyword}");
-}
+}```
 
 ##Unit Tests
 The library includes unit tests to ensure reliability. Run the tests using the .NET CLI or Visual Studio Test Explorer.
@@ -73,7 +73,7 @@ public void Resolve_ShouldReplaceYESTERDAYWithCorrectDate()
     string expected = $"File_{DateTime.Now.AddDays(-1):yyyy-MM-dd}.log";
     
     Assert.Equal(expected, KeywordResolver.Resolve(input, pattern, CultureInfo.InvariantCulture));
-}
+}```
 
 ##Contributing
 Contributions are welcome! If you’d like to add features or fix bugs, follow these steps:
