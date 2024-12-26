@@ -1,0 +1,4 @@
+C:\Users\oluwa\source\repos\NamaResolver\obj\Debug\net8.0\NamaResolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwa\source\repos\NamaResolver\obj\Debug\net8.0\NamaResolver.AssemblyInfoInputs.cache
+C:\Users\oluwa\source\repos\NamaResolver\obj\Debug\net8.0\NamaResolver.AssemblyInfo.cs
+C:\Users\oluwa\source\repos\NamaResolver\obj\Debug\net8.0\NamaResolver.csproj.CoreCompileInputs.cache

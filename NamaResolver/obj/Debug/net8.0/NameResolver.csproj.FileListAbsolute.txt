@@ -1,0 +1,41 @@
+C:\Users\oluwa\source\repos\NamaResolver\bin\Debug\net8.0\NameResolver.exe
+C:\Users\oluwa\source\repos\NamaResolver\bin\Debug\net8.0\NameResolver.deps.json
+C:\Users\oluwa\source\repos\NamaResolver\bin\Debug\net8.0\NameResolver.runtimeconfig.json
+C:\Users\oluwa\source\repos\NamaResolver\bin\Debug\net8.0\NameResolver.dll
+C:\Users\oluwa\source\repos\NamaResolver\bin\Debug\net8.0\NameResolver.pdb
+C:\Users\oluwa\source\repos\NamaResolver\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\oluwa\source\repos\NamaResolver\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\oluwa\source\repos\NamaResolver\bin\Debug\net8.0\xunit.core.dll
+C:\Users\oluwa\source\repos\NamaResolver\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\oluwa\source\repos\NamaResolver\obj\Debug\net8.0\NameResolver.csproj.AssemblyReference.cache
+C:\Users\oluwa\source\repos\NamaResolver\obj\Debug\net8.0\NameResolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwa\source\repos\NamaResolver\obj\Debug\net8.0\NameResolver.AssemblyInfoInputs.cache
+C:\Users\oluwa\source\repos\NamaResolver\obj\Debug\net8.0\NameResolver.AssemblyInfo.cs
+C:\Users\oluwa\source\repos\NamaResolver\obj\Debug\net8.0\NameResolver.csproj.CoreCompileInputs.cache
+C:\Users\oluwa\source\repos\NamaResolver\obj\Debug\net8.0\NameReso.1B82C57B.Up2Date
+C:\Users\oluwa\source\repos\NamaResolver\obj\Debug\net8.0\NameResolver.dll
+C:\Users\oluwa\source\repos\NamaResolver\obj\Debug\net8.0\refint\NameResolver.dll
+C:\Users\oluwa\source\repos\NamaResolver\obj\Debug\net8.0\NameResolver.pdb
+C:\Users\oluwa\source\repos\NamaResolver\obj\Debug\net8.0\NameResolver.genruntimeconfig.cache
+C:\Users\oluwa\source\repos\NamaResolver\obj\Debug\net8.0\ref\NameResolver.dll
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\bin\Debug\net8.0\NameResolver.exe
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\bin\Debug\net8.0\NameResolver.deps.json
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\bin\Debug\net8.0\NameResolver.runtimeconfig.json
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\bin\Debug\net8.0\NameResolver.dll
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\bin\Debug\net8.0\NameResolver.pdb
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\bin\Debug\net8.0\xunit.core.dll
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\obj\Debug\net8.0\NameResolver.csproj.AssemblyReference.cache
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\obj\Debug\net8.0\NameResolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\obj\Debug\net8.0\NameResolver.AssemblyInfoInputs.cache
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\obj\Debug\net8.0\NameResolver.AssemblyInfo.cs
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\obj\Debug\net8.0\NameResolver.csproj.CoreCompileInputs.cache
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\obj\Debug\net8.0\NameResolver.sourcelink.json
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\obj\Debug\net8.0\NameReso.1B82C57B.Up2Date
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\obj\Debug\net8.0\NameResolver.dll
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\obj\Debug\net8.0\refint\NameResolver.dll
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\obj\Debug\net8.0\NameResolver.pdb
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\obj\Debug\net8.0\NameResolver.genruntimeconfig.cache
+C:\Users\oluwa\Documents\Programming\Software Journey\Projects\Date paser\NamaResolver\obj\Debug\net8.0\ref\NameResolver.dll
